@@ -22,7 +22,7 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 15. Keeping Time, Scheduling Tasks, and Launching Programs
 #### 16. Sending Email and Text Messages
 #### 17. Manipulating Images  
-:heavy_check_mark: [Extending and Fixing the Chapter Project Programs](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/resize_and_add_logo.py)  
+:heavy_check_mark: [Extending and Fixing the Chapter Project Programs - Resize and Add Logo](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/resize_and_add_logo.py)  
 :heavy_check_mark: [Identifying Photo Folders on the Hard Drive](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/photo_file_finder.py)  
 :heavy_check_mark: [Custom Seating Cards](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/custom_seating_cards.py)  
 #### 18. Controlling the Keyboard and Mouse with GUI Automation 
