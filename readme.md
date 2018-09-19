@@ -22,8 +22,7 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 15. Keeping Time, Scheduling Tasks, and Launching Programs
 #### 16. Sending Email and Text Messages
 #### 17. Manipulating Images  
-:heavy_check_mark: [Extending and Fixing the Chapter Project Programs](Chapter 17 - Manipulating Images/custom_seating_cards.py)
-  
+:heavy_check_mark: Extending and Fixing the Chapter Project Programs
 :heavy_check_mark: Identifying Photo Folders on the Hard Drive  
 :heavy_check_mark: Custom Seating Cards  
 #### 18. Controlling the Keyboard and Mouse with GUI Automation 
