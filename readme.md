@@ -22,7 +22,7 @@ In this repository I will upload all my solutions to the practice problems prese
 ##### 15. Keeping Time, Scheduling Tasks, and Launching Programs
 ##### 16. Sending Email and Text Messages
 ##### 17. Manipulating Images  
-      - [x] Extending and Fixing the Chapter Project Programs  
-      - [x] Identifying Photo Folders on the Hard Drive  
-      - [x] Custom Seating Cards  
+- [x] Extending and Fixing the Chapter Project Programs  
+- [x] Identifying Photo Folders on the Hard Drive  
+- [x] Custom Seating Cards  
 #### 18. Controlling the Keyboard and Mouse with GUI Automation 
