@@ -4,7 +4,7 @@ In this repository I will upload all my solutions to the practice problems prese
 
 **Big shout to Al Sweigart!**
   
-:books:## Chapters
+## :books: Chapters
 ##### 1. Python Basics
 ##### 2. Flow Control
 ##### 3. Functions
