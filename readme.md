@@ -5,23 +5,23 @@ In this repository I will upload all my solutions to the practice problems prese
 **Big shout to Al Sweigart!**
   
 ## :books: Chapters
-##### 1. Python Basics
-##### 2. Flow Control
-##### 3. Functions
-##### 4. Lists
-##### 5. Dictionaries and Structuring Data
-##### 6. Manipulating Strings
-##### 7. Pattern Matching with Regular Expressions
-##### 8. Reading and Writing Files
-##### 9. Organizing Files
-##### 10. Debugging
-##### 11. Web Scraping
-##### 12. Working with Excel Spreadsheets
-##### 13. Working with PDF and Word Documents
-##### 14. Working with CSV Files and JSON Data
-##### 15. Keeping Time, Scheduling Tasks, and Launching Programs
-##### 16. Sending Email and Text Messages
-##### 17. Manipulating Images  
+#### 1. Python Basics
+#### 2. Flow Control
+#### 3. Functions
+#### 4. Lists
+#### 5. Dictionaries and Structuring Data
+#### 6. Manipulating Strings
+#### 7. Pattern Matching with Regular Expressions
+#### 8. Reading and Writing Files
+#### 9. Organizing Files
+#### 10. Debugging
+#### 11. Web Scraping
+#### 12. Working with Excel Spreadsheets
+#### 13. Working with PDF and Word Documents
+#### 14. Working with CSV Files and JSON Data
+#### 15. Keeping Time, Scheduling Tasks, and Launching Programs
+#### 16. Sending Email and Text Messages
+#### 17. Manipulating Images  
 :heavy_check_mark: Extending and Fixing the Chapter Project Programs  
 :heavy_check_mark: Identifying Photo Folders on the Hard Drive  
 :heavy_check_mark: Custom Seating Cards  
