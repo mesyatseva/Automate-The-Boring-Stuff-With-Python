@@ -20,12 +20,12 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 13. Working with PDF and Word Documents
 #### 14. Working with CSV Files and JSON Data
 #### 15. Keeping Time, Scheduling Tasks, and Launching Programs
-:heavy_check_mark: [Prettified Stopwatch]()
-:heavy_check_mark: [Scheduled Web Comic Downloader]()
+:heavy_check_mark: [Prettified Stopwatch](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2015%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching/prettified_stopwatch.py)  
+:heavy_check_mark: [Scheduled Web Comic Downloader](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2015%20-%20Keeping%20Time%2C%20Scheduling%20Tasks%2C%20and%20Launching/multi_comic_update_downloader.py)  
 #### 16. Sending Email and Text Messages
-:heavy_check_mark: [Random Chore Assignment Emailer]()
-:heavy_check_mark: [Umbrella Reminder]()
-:heavy_check_mark: [Auto Unsubscriber]()
+:heavy_check_mark: [Random Chore Assignment Emailer](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2016%20-%20Sending%20Email%20and%20Text%20Messages/random_chore_assignment_emailer.py)  
+:heavy_check_mark: [Umbrella Reminder](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2016%20-%20Sending%20Email%20and%20Text%20Messages/umbrella_reminder.py)  
+:heavy_check_mark: [Auto Unsubscriber](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2016%20-%20Sending%20Email%20and%20Text%20Messages/auto_unsubcriber.py)  
 #### 17. Manipulating Images  
 :heavy_check_mark: [Extending and Fixing the Chapter Project Programs - Resize and Add Logo](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/resize_and_add_logo.py)  
 :heavy_check_mark: [Identifying Photo Folders on the Hard Drive](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/photo_file_finder.py)  
