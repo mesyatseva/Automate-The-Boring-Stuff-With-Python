@@ -20,7 +20,12 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 13. Working with PDF and Word Documents
 #### 14. Working with CSV Files and JSON Data
 #### 15. Keeping Time, Scheduling Tasks, and Launching Programs
+:heavy_check_mark: [Prettified Stopwatch]()
+:heavy_check_mark: [Scheduled Web Comic Downloader]()
 #### 16. Sending Email and Text Messages
+:heavy_check_mark: [Random Chore Assignment Emailer]()
+:heavy_check_mark: [Umbrella Reminder]()
+:heavy_check_mark: [Auto Unsubscriber]()
 #### 17. Manipulating Images  
 :heavy_check_mark: [Extending and Fixing the Chapter Project Programs - Resize and Add Logo](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/resize_and_add_logo.py)  
 :heavy_check_mark: [Identifying Photo Folders on the Hard Drive](https://github.com/ng-michael/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2017%20-%20%20Manipulating%20Images/photo_file_finder.py)  
