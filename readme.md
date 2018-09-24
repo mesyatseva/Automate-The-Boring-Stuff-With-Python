@@ -17,7 +17,15 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 10. Debugging
 #### 11. Web Scraping
 #### 12. Working with Excel Spreadsheets
+:heavy_check_mark: [Multiplication Table Maker](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/multiplication_table_maker.py)  
+:heavy_check_mark: [Blank Row Inserter](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/blank_row_inserter.py)  
+:heavy_check_mark: [Spreadsheet Cell Inverter](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/spreadsheet_cell_inverter.py)  
+:heavy_check_mark: [Text Files to Spreadsheet](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/text_files_to_spreadsheet.py)  
+:heavy_check_mark: [Spreadsheet to Text Files](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/spreadsheet_to_text_files.py)  
 #### 13. Working with PDF and Word Documents
+:heavy_check_mark: [PDF Paranoia](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2013%20-%20Working%20with%20PDF%20and%20Word%20Documents/pdf_paranoia.py)  
+:heavy_check_mark: [Custom Invitations as Word Documents](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2013%20-%20Working%20with%20PDF%20and%20Word%20Documents/custom_word_invites.py)  
+:heavy_check_mark: [Brute-Force PDS Password Breaker](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2013%20-%20Working%20with%20PDF%20and%20Word%20Documents/brute_force_pdf_breaker.py)  
 #### 14. Working with CSV Files and JSON Data  
 :heavy_check_mark: [Excel-to-CSV Converter](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2014%20-%20Working%20with%20CSV%20Files%20and%20JSON%20Data/excel_to_csv.py)  
 #### 15. Keeping Time, Scheduling Tasks, and Launching Programs
