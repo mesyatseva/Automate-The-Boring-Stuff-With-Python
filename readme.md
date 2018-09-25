@@ -16,6 +16,10 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 9. Organizing Files
 #### 10. Debugging
 #### 11. Web Scraping
+:heavy_check_mark: [2048](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2011%20-%20Web%20Scraping/2048.py)  
+:heavy_check_mark: [Command Line Emailer](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2011%20-%20Web%20Scraping/command_line_emailer.py)  
+:heavy_check_mark: [Image Site Downloader](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2011%20-%20Web%20Scraping/image_site_downloader.py)  
+:heavy_check_mark: [Link Verification](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2011%20-%20Web%20Scraping/link_verification.py)  
 #### 12. Working with Excel Spreadsheets
 :heavy_check_mark: [Multiplication Table Maker](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/multiplication_table_maker.py)  
 :heavy_check_mark: [Blank Row Inserter](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2012%20-%20Working%20with%20Excel%20Spreadsheets/blank_row_inserter.py)  
