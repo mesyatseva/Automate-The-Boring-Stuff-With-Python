@@ -13,6 +13,9 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 6. Manipulating Strings
 #### 7. Pattern Matching with Regular Expressions
 #### 8. Reading and Writing Files
+:heavy_check_mark: [Extending the Multiclipboard](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2008%20-%20Reading%20and%20Writing%20Files/mcb.pyw)  
+:heavy_check_mark: [Mad Libs](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2008%20-%20Reading%20and%20Writing%20Files/mad_libs.py)  
+:heavy_check_mark: [Regex Search](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2008%20-%20Reading%20and%20Writing%20Files/regex_search.py) 
 #### 9. Organizing Files
 :heavy_check_mark: [Selective Copy](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2009%20-%20Organizing%20Files/selective_copy.py)  
 :heavy_check_mark: [Deleting Unneeded Files](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2009%20-%20Organizing%20Files/delete_uneeded_files.py)  
