@@ -14,7 +14,11 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 7. Pattern Matching with Regular Expressions
 #### 8. Reading and Writing Files
 #### 9. Organizing Files
+:heavy_check_mark: [Selective Copy](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2009%20-%20Organizing%20Files/selective_copy.py)  
+:heavy_check_mark: [Deleting Unneeded Files](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2009%20-%20Organizing%20Files/delete_uneeded_files.py)  
+:heavy_check_mark: [Filling in the Gaps](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2009%20-%20Organizing%20Files/filling_in_the_gaps.py)  
 #### 10. Debugging
+:heavy_check_mark: [Debugging Coin Toss](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2010%20-%20Debugging/debugging_coin_toss.py)  
 #### 11. Web Scraping
 :heavy_check_mark: [2048](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2011%20-%20Web%20Scraping/2048.py)  
 :heavy_check_mark: [Command Line Emailer](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2011%20-%20Web%20Scraping/command_line_emailer.py)  
