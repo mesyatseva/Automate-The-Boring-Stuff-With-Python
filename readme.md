@@ -12,6 +12,8 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 5. Dictionaries and Structuring Data
 #### 6. Manipulating Strings
 #### 7. Pattern Matching with Regular Expressions
+:heavy_check_mark: [Strong Password Detection](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2007%20-%20Pattern%20Matching%20with%20Regular%20Expressions/strong_password_detection.py)  
+:heavy_check_mark: [Regex Version of Strip()](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2007%20-%20Pattern%20Matching%20with%20Regular%20Expressions/regex_version_of_strip.py)  
 #### 8. Reading and Writing Files
 :heavy_check_mark: [Extending the Multiclipboard](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2008%20-%20Reading%20and%20Writing%20Files/mcb.pyw)  
 :heavy_check_mark: [Mad Libs](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2008%20-%20Reading%20and%20Writing%20Files/mad_libs.py)  
