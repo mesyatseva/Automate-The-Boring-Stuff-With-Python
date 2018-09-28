@@ -1,5 +1,5 @@
 #! python3
-# tablePrinter.py - takes a list of list with same length, displays each inner_list vertically
+# table_printer.py - takes a list of list with same length, displays each inner_list vertically
 
 table_data = [['apples', 'oranges', 'cherries', 'banana'],
               ['alice', 'bob', 'carol', 'derrick'],
