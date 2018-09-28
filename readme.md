@@ -10,6 +10,7 @@ In this repository I will upload all my solutions to the practice problems prese
 #### 3. Functions
 #### 4. Lists
 #### 5. Dictionaries and Structuring Data
+:heavy_check_mark: [Fantasy Game Inventory](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2005%20-%20Dictionaries%20and%20Structuring%20Data/inventory.py)  
 #### 6. Manipulating Strings
 :heavy_check_mark: [Table Printer](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2006%20-%20Manipulating%20Strings/table_printer.py)  
 #### 7. Pattern Matching with Regular Expressions
