@@ -6,9 +6,14 @@ In this repository I will upload all my solutions to the practice problems prese
   
 ## :books: Chapters
 #### 1. Python Basics
+:heavy_check_mark: []()  
 #### 2. Flow Control
+:heavy_check_mark: []()  
 #### 3. Functions
+:heavy_check_mark: []()  
 #### 4. Lists
+:heavy_check_mark: [Comma Code](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2004%20-%20Lists/comma_code.pygit)  
+:heavy_check_mark: [Character Picture Grid](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2004%20-%20Lists/character_picture_grid.py)  
 #### 5. Dictionaries and Structuring Data
 :heavy_check_mark: [Fantasy Game Inventory](https://github.com/xMNG/Automate-The-Boring-Stuff-With-Python/blob/master/Chapter%2005%20-%20Dictionaries%20and%20Structuring%20Data/inventory.py)  
 #### 6. Manipulating Strings
