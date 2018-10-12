@@ -18,21 +18,17 @@ with open('last_week_chores.json', 'r') as last_week_chores_text:
     last_week_chores = json.load(last_week_chores_text)
     this_week_chores = {}
 
-    # flag for checking for no repeats from prior week
-    not_last_week_flag = False
     # randomly assign chores, remove after assignment
-    while not not_last_week_flag:
+    while True:
         temp_chore_list = chores[:]
         for email in email_addresses:
             selected_chore = random.choice(temp_chore_list)
             this_week_chores[email] = selected_chore
             temp_chore_list.remove(selected_chore)
-        # check for repeats from prior week
-        for email in this_week_chores.keys():
-            if this_week_chores[email] == last_week_chores[email]:
-                break
-            not_last_week_flag = True
-
+        # check for repeats from prior week by checking if there is any overlap
+        if not this_week_chores.items() & last_week_chores.items():
+            break
+    
     # login to SMTP server
     smtpObj = smtplib.SMTP('smtp.gmail.com', 587)
     smtpObj.ehlo()
